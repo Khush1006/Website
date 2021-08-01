@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar-brand{
+    font-family: 'Berkshire Swash', cursive;
+
+}
+
+.row{
+    margin-top: 10px;
+}
+
+body{
+    background-color: rgb(231, 220, 220);
+}
+
+#featurette{
+    margin-top: 50px;
+}
+
+.d-block{
+    height: 400px;
+}
+
+.input-group{
+    position:absolute;
+    z-index: 1;
+    top:250px;
+  width: 80%;
+}
+
+.form-control{
+    background: transparent;
+} 
+
+.search-bar{
+    background: transparent;
+}
+
+footer{
+    text-align: center;
+}
